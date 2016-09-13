@@ -1,8 +1,8 @@
 class Accent < Formula
   desc "Sync, merge and export with the Accent API. Just a fancy cUrl wrapper."
   homepage "https://github.com/mirego/accent-cli"
-  url "https://github.com/mirego/accent-cli/archive/0.5.1.tar.gz"
-  sha256 "b50e871d53415c65dc7f39eb8d80234db5bf51e5263a70848380b66a344b6d8d"
+  url "https://github.com/mirego/accent-cli/archive/0.5.2.tar.gz"
+  sha256 "6ddc290d72dc5dc6b791f2c9b70f0fbd74649c4419e669e227b40b811818b60f"
 
   head "https://github.com/mirego/accent-cli.git"
 
